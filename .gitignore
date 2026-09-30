@@ -1,0 +1,9 @@
+# Author-side solution artifacts (spoilers :D)
+secret_helper
+secret_helper.c
+
+# Unrelated / build artifacts
+execise4
+
+# OS junk 
+.DS_Store

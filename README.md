@@ -1,5 +1,7 @@
 # Login Challenge
 
+This challenge is a part of the course [Software security and cryptography](https://github.com/noralilliedahl/Sikkerhet_i_programvare_og_kryptografi)
+
 **Category:** Reverse Engineering 
 **Difficulty:** Easy 
 **Flag format:** Flag{...}
